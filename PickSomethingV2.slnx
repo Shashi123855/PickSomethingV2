@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PickSomethingV2.Application/PickSomethingV2.Application.csproj" />
+  <Project Path="PickSomethingV2.Domain/PickSomethingV2.Domain.csproj" />
+  <Project Path="PickSomethingV2.Infrastructure/PickSomethingV2.Infrastructure.csproj" />
+  <Project Path="PickSomethingV2/PickSomethingV2.csproj" />
+</Solution>
